@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51" height="51" viewBox="0 0 51 51">
+    <g fill="none" fillRule="evenodd" opacity=".394">
+        <g stroke="#3470BE" strokeWidth="2.6">
+            <g>
+                <g>
+                    <g transform="translate(-695 -145) translate(421 17) translate(30 91) translate(246 39)">
+                        <path strokeLinecap="square" d="M0 0H46.8V46.8H0z"/>
+                        <path strokeLinecap="round" d="M0 28.6L10.4 18.2 39 46.8"/>
+                        <circle cx="27.3" cy="11.7" r="6.5" strokeLinecap="square"/>
+                        <path strokeLinecap="round" d="M27.3 35.1L46.8 15.6"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
