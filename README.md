@@ -13,3 +13,6 @@
 
   `npm start`
 
+5. In browser Url
+
+`http://localhost:3000/`
