@@ -23,7 +23,7 @@ const Login = ({ history }) => {
 
   return (
     <div className="LoginStyles">
-      <Card style={{ width: 300 }} title="Welcom">  <Form
+      <Card style={{ width: 300 }} title="Welcome">  <Form
         form={form}
         layout="vertical"
         initialValues={{ remember: true }}
